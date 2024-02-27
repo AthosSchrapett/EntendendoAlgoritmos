@@ -5,5 +5,5 @@ List<int> listaDesordenada = [5, 3, 6, 2, 10];
 
 //Console.WriteLine(PesquisaBinaria.Pesquisa(lista, 3));
 //Console.WriteLine(PesquisaBinaria.Pesquisa(lista, -1));
-
-Console.WriteLine(string.Join(',', ArraysEListasEncadeadas.OrdenacaoPorSelecao(listaDesordenada)));
+//Console.WriteLine(string.Join(',', ArraysEListasEncadeadas.OrdenacaoPorSelecao(listaDesordenada)));
+Console.WriteLine(Recursao.Fatorial(5));
