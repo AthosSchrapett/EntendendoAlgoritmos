@@ -4,8 +4,13 @@ Este repositório contém implementações em C# dos algoritmos apresentados no 
 
 ## Conteúdo
 
-- Capítulo 1: Entendendo Algoritmos
-  - Pesquisa Binária 
+- Capítulo 1: Introdução a Algoritmos
+  - Pesquisa Binária
+  - Notação Big O
+- Capítulo 2: Ordenação por Seleção
+  - Como funciona a memória
+  - Arrays e listas encadeadas
+  - Ordenação por seleção
 
 ## Como usar
 
