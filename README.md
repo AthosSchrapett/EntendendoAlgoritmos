@@ -11,6 +11,9 @@ Este repositório contém implementações em C# dos algoritmos apresentados no 
   - Como funciona a memória
   - Arrays e listas encadeadas
   - Ordenação por seleção
+- Capítulo 3: Recursão
+  - Caso Base e Caso Recursivo
+  - A pilha
 
 ## Como usar
 
