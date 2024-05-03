@@ -14,6 +14,8 @@ Este repositório contém implementações em C# dos algoritmos apresentados no 
 - Capítulo 3: Recursão
   - Caso Base e Caso Recursivo
   - A pilha
+- Capítulo 4: QuickSort
+  - Dividir para conquistar
 
 ## Como usar
 
